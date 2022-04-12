@@ -1,0 +1,25 @@
+﻿  GameTest.cpp
+C:\Users\Computer\Desktop\NextAPI\GameTest\GameTest.cpp(77,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Computer\Desktop\NextAPI\GameTest\GameTest.cpp(295,24): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Computer\Desktop\NextAPI\GameTest\GameTest.cpp(296,24): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Computer\Desktop\NextAPI\GameTest\GameTest.cpp(301,38): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Computer\Desktop\NextAPI\GameTest\GameTest.cpp(301,38): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Computer\Desktop\NextAPI\GameTest\GameTest.cpp(301,60): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Computer\Desktop\NextAPI\GameTest\GameTest.cpp(301,60): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Computer\Desktop\NextAPI\GameTest\GameTest.cpp(650,145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Computer\Desktop\NextAPI\GameTest\GameTest.cpp(650,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 863 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameTest.vcxproj -> C:\Users\Computer\Desktop\NextAPI\x64\Release\GameTest.exe
+  C:\Users\Computer\Desktop\NextAPI\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
